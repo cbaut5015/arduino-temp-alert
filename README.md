@@ -47,6 +47,7 @@ Key settings:
 
 ---
 
-## Notes
-- This project was built using an **Elegoo Uno R3**, but it works the same on an **Arduino Uno**.  
-- The DHT11 sensor is slower (updates every ~2 seconds). For more accuracy, a DHT22 could be used. 
+## Future Improvements
+- **IoT integration (Blynk / WiFi module):** Send temperature data and alerts to a mobile app for remote monitoring.  
+- **LCD/OLED display:** Show live temperature on a small screen without needing a computer.  
+- **Better sensor (DHT22):** Upgrade to a more accurate and faster sensor.  
