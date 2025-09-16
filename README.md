@@ -28,7 +28,8 @@ Readings are also shown in the **Serial Monitor** for real-time monitoring.
 - **LED**: `D2 → Resistor → LED anode`, `LED cathode → GND`  
 - **Buzzer**: `D4 → +`, `– → GND`  
 
-*Wiring photos are included in the `Images/` folder.*  
+*Wiring photos are included in the [/Images](Images/) folder.*  
+![Demo GIF](Images/demo.gif)
 
 ---
 
